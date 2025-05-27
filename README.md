@@ -1,6 +1,6 @@
-# LeetCode C Study Log
+# LeetCode C++ Study Log
 
-📘 A personal study log of solving 800+ LeetCode problems using **C language**.
+📘 A personal study log of solving 800+ LeetCode problems using **C++ language**.
 
 This repository includes:
 - Structured problem notes (categorized by difficulty and topic)
@@ -12,7 +12,7 @@ Currently migrating notes from local study to GitHub for easier sharing and revi
 ---
 
 ✅ Familiar: ~400 problems (recently practiced)  
-📌 Language: C  
+📌 Language: C++
 📊 Topics: Arrays, Math, Greedy, Pointers, and more
 
 ---
